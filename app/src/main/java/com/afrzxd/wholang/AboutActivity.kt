@@ -14,7 +14,7 @@ class AboutActivity : AppCompatActivity() {
 
         val mailme = findViewById<TextView>(R.id.email)
         mailme.setOnClickListener {
-            val recipient = "afriza939@gmail.com"
+            val recipient = "rzxdeveloper@gmail.com"
             val subject = "Keluhan Aplikasi"
             val body = "Gunakan Bahasa yang Sopan"
 
